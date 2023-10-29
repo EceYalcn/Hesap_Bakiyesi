@@ -1,0 +1,14 @@
+C:\Users\eceya\source\reposPRESENTATİON\yetgen hesap bakiyesi\bin\Debug\net7.0\yetgen hesap bakiyesi.exe
+C:\Users\eceya\source\reposPRESENTATİON\yetgen hesap bakiyesi\bin\Debug\net7.0\yetgen hesap bakiyesi.deps.json
+C:\Users\eceya\source\reposPRESENTATİON\yetgen hesap bakiyesi\bin\Debug\net7.0\yetgen hesap bakiyesi.runtimeconfig.json
+C:\Users\eceya\source\reposPRESENTATİON\yetgen hesap bakiyesi\bin\Debug\net7.0\yetgen hesap bakiyesi.dll
+C:\Users\eceya\source\reposPRESENTATİON\yetgen hesap bakiyesi\bin\Debug\net7.0\yetgen hesap bakiyesi.pdb
+C:\Users\eceya\source\reposPRESENTATİON\yetgen hesap bakiyesi\obj\Debug\net7.0\yetgen hesap bakiyesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eceya\source\reposPRESENTATİON\yetgen hesap bakiyesi\obj\Debug\net7.0\yetgen hesap bakiyesi.AssemblyInfoInputs.cache
+C:\Users\eceya\source\reposPRESENTATİON\yetgen hesap bakiyesi\obj\Debug\net7.0\yetgen hesap bakiyesi.AssemblyInfo.cs
+C:\Users\eceya\source\reposPRESENTATİON\yetgen hesap bakiyesi\obj\Debug\net7.0\yetgen hesap bakiyesi.csproj.CoreCompileInputs.cache
+C:\Users\eceya\source\reposPRESENTATİON\yetgen hesap bakiyesi\obj\Debug\net7.0\yetgen hesap bakiyesi.dll
+C:\Users\eceya\source\reposPRESENTATİON\yetgen hesap bakiyesi\obj\Debug\net7.0\refint\yetgen hesap bakiyesi.dll
+C:\Users\eceya\source\reposPRESENTATİON\yetgen hesap bakiyesi\obj\Debug\net7.0\yetgen hesap bakiyesi.pdb
+C:\Users\eceya\source\reposPRESENTATİON\yetgen hesap bakiyesi\obj\Debug\net7.0\yetgen hesap bakiyesi.genruntimeconfig.cache
+C:\Users\eceya\source\reposPRESENTATİON\yetgen hesap bakiyesi\obj\Debug\net7.0\ref\yetgen hesap bakiyesi.dll
